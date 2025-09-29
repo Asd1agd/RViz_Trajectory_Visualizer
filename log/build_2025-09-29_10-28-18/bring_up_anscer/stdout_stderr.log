@@ -1,0 +1,36 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/bring_up_anscer
+-- Install configuration: ""
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer//launch
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer//launch/combined.launch.xml
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer//launch/combined.launch.py
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/ament_index/resource_index/package_run_dependencies/bring_up_anscer
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/ament_index/resource_index/parent_prefix_path/bring_up_anscer
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/environment/ament_prefix_path.sh
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/environment/ament_prefix_path.dsv
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/environment/path.sh
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/environment/path.dsv
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/local_setup.bash
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/local_setup.sh
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/local_setup.zsh
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/local_setup.dsv
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/package.dsv
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/ament_index/resource_index/packages/bring_up_anscer
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/cmake/bring_up_anscerConfig.cmake
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/cmake/bring_up_anscerConfig-version.cmake
+-- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/bring_up_anscer/share/bring_up_anscer/package.xml

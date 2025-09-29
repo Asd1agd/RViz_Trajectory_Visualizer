@@ -1,0 +1,7 @@
+{
+  "package_name": "custom_interfaces_anscer",
+  "non_idl_tuples": [
+    "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/src/custom_interfaces_anscer:srv/CsvPath.srv",
+    "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/src/custom_interfaces_anscer:srv/TimeInSec.srv"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-2451d1e46b15033869c8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "custom_interfaces_anscer__py",
+					"jsonFile" : "directory-custom_interfaces_anscer__py-dddad1fe857bcef222c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer/custom_interfaces_anscer__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "custom_interfaces_anscer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_custom_interfaces_anscer_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_custom_interfaces_anscer_egg-2e2d171ca61bddc383ec.json",
+					"name" : "ament_cmake_python_build_custom_interfaces_anscer_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_custom_interfaces_anscer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_custom_interfaces_anscer-45b93b0ed2422e8a0aa0.json",
+					"name" : "ament_cmake_python_copy_custom_interfaces_anscer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer-ccb67d0a66f20a9cd177.json",
+					"name" : "custom_interfaces_anscer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__cpp-5145db761ce5d0b45527.json",
+					"name" : "custom_interfaces_anscer__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "custom_interfaces_anscer__py::@80974622729a9dcd2e20",
+					"jsonFile" : "target-custom_interfaces_anscer__py-14e9af0a009647d4c9bb.json",
+					"name" : "custom_interfaces_anscer__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_generator_c-c18f39913b6871210bbf.json",
+					"name" : "custom_interfaces_anscer__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_generator_py-3bcd6ecd58abe819c79a.json",
+					"name" : "custom_interfaces_anscer__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_typesupport_c-18016d0a4e715a2f10ac.json",
+					"name" : "custom_interfaces_anscer__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_typesupport_c__pyext-183e975bffbbc03e3cd7.json",
+					"name" : "custom_interfaces_anscer__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_typesupport_cpp-062022d6703da94a9cf6.json",
+					"name" : "custom_interfaces_anscer__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_typesupport_fastrtps_c-6e14fbaf45762031ea74.json",
+					"name" : "custom_interfaces_anscer__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_typesupport_fastrtps_c__pyext-ea85b76ee15325eb75b6.json",
+					"name" : "custom_interfaces_anscer__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_typesupport_fastrtps_cpp-71274156e2adbf2f6a08.json",
+					"name" : "custom_interfaces_anscer__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_typesupport_introspection_c-980710c15844196cf3d0.json",
+					"name" : "custom_interfaces_anscer__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_typesupport_introspection_c__pyext-df66797a33bcba63b163.json",
+					"name" : "custom_interfaces_anscer__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer__rosidl_typesupport_introspection_cpp-d6c0cf1c22f6fb2e7060.json",
+					"name" : "custom_interfaces_anscer__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "custom_interfaces_anscer_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-custom_interfaces_anscer_uninstall-386c5170428015a72887.json",
+					"name" : "custom_interfaces_anscer_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-9ed85162b6a35c5d6840.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer",
+		"source" : "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/src/custom_interfaces_anscer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

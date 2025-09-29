@@ -1,0 +1,5 @@
+[console_scripts]
+path_drawer = my_py_pkg_anscer.path_drawer:main
+trajectory_publisher_saver = my_py_pkg_anscer.trajectory_publisher_saver:main
+trajectory_visualizer = my_py_pkg_anscer.trajectory_visualizer:main
+

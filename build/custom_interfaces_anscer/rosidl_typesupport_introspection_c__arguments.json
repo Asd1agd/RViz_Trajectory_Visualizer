@@ -1,0 +1,21 @@
+{
+  "package_name": "custom_interfaces_anscer",
+  "output_dir": "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer/rosidl_typesupport_introspection_c/custom_interfaces_anscer",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer/rosidl_adapter/custom_interfaces_anscer:srv/CsvPath.idl",
+    "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer/rosidl_adapter/custom_interfaces_anscer:srv/TimeInSec.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer/rosidl_adapter/custom_interfaces_anscer/srv/CsvPath.idl",
+    "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer/rosidl_adapter/custom_interfaces_anscer/srv/TimeInSec.idl"
+  ]
+}

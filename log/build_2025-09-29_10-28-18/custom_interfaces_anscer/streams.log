@@ -1,0 +1,262 @@
+[0.044s] Invoking command in '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/asd/ros2_ws_goat2/install/multi_robo_simulator:/home/asd/ros2_ws_goat2/install/micro_ros_server:/home/asd/ros2_ws_goat2/install/Qr_action:/home/asd/ros2_ws9/install/turtlebot3_simulations:/home/asd/ros2_ws9/install/turtlebot3_gazebo_goat:/home/asd/ros2_ws9/install/turtlebot3_fake_node:/home/asd/ros2_ws9/install/testbed_gazebo_goat:/home/asd/ros2_ws9/install/testbed_description_goat:/home/asd/ros2_ws9/install/my_goat_pkg:/home/asd/ros2_ws9/install/goat_interfaces:/home/asd/ros2_ws9/install/goat_gazebo:/home/asd/ros2_ws7/install/my_py_pkg_anscer:/home/asd/ros2_ws4/install/esp_wifi:/home/asd/ros2_ws4/install/maping_odom:/home/asd/ros2_ws/install/turtlesim_catch_them_all:/home/asd/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/src/custom_interfaces_anscer -DCMAKE_INSTALL_PREFIX=/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer
+[0.370s] -- The C compiler identification is GNU 11.4.0
+[0.503s] -- The CXX compiler identification is GNU 11.4.0
+[0.524s] -- Detecting C compiler ABI info
+[0.659s] -- Detecting C compiler ABI info - done
+[0.669s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.670s] -- Detecting C compile features
+[0.672s] -- Detecting C compile features - done
+[0.676s] -- Detecting CXX compiler ABI info
+[0.826s] -- Detecting CXX compiler ABI info - done
+[0.843s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.844s] -- Detecting CXX compile features
+[0.844s] -- Detecting CXX compile features - done
+[0.885s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.184s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.559s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.595s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.645s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.851s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.477s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.862s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.305s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.352s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[3.369s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.456s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[3.457s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.457s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.457s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.492s] -- Found PythonExtra: .so  
+[3.611s] -- Configuring done
+[3.668s] -- Generating done
+[3.680s] -- Build files have been written to: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer
+[3.695s] Invoked command in '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/asd/ros2_ws_goat2/install/multi_robo_simulator:/home/asd/ros2_ws_goat2/install/micro_ros_server:/home/asd/ros2_ws_goat2/install/Qr_action:/home/asd/ros2_ws9/install/turtlebot3_simulations:/home/asd/ros2_ws9/install/turtlebot3_gazebo_goat:/home/asd/ros2_ws9/install/turtlebot3_fake_node:/home/asd/ros2_ws9/install/testbed_gazebo_goat:/home/asd/ros2_ws9/install/testbed_description_goat:/home/asd/ros2_ws9/install/my_goat_pkg:/home/asd/ros2_ws9/install/goat_interfaces:/home/asd/ros2_ws9/install/goat_gazebo:/home/asd/ros2_ws7/install/my_py_pkg_anscer:/home/asd/ros2_ws4/install/esp_wifi:/home/asd/ros2_ws4/install/maping_odom:/home/asd/ros2_ws/install/turtlesim_catch_them_all:/home/asd/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/src/custom_interfaces_anscer -DCMAKE_INSTALL_PREFIX=/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer
+[3.696s] Invoking command in '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/asd/ros2_ws_goat2/install/multi_robo_simulator:/home/asd/ros2_ws_goat2/install/micro_ros_server:/home/asd/ros2_ws_goat2/install/Qr_action:/home/asd/ros2_ws9/install/turtlebot3_simulations:/home/asd/ros2_ws9/install/turtlebot3_gazebo_goat:/home/asd/ros2_ws9/install/turtlebot3_fake_node:/home/asd/ros2_ws9/install/testbed_gazebo_goat:/home/asd/ros2_ws9/install/testbed_description_goat:/home/asd/ros2_ws9/install/my_goat_pkg:/home/asd/ros2_ws9/install/goat_interfaces:/home/asd/ros2_ws9/install/goat_gazebo:/home/asd/ros2_ws7/install/my_py_pkg_anscer:/home/asd/ros2_ws4/install/esp_wifi:/home/asd/ros2_ws4/install/maping_odom:/home/asd/ros2_ws/install/turtlesim_catch_them_all:/home/asd/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer -- -j8 -l8
+[3.798s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[3.832s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[3.855s] [  5%] Built target ament_cmake_python_copy_custom_interfaces_anscer
+[4.514s] running egg_info
+[4.515s] creating custom_interfaces_anscer.egg-info
+[4.516s] writing custom_interfaces_anscer.egg-info/PKG-INFO
+[4.516s] writing dependency_links to custom_interfaces_anscer.egg-info/dependency_links.txt
+[4.517s] writing top-level names to custom_interfaces_anscer.egg-info/top_level.txt
+[4.518s] writing manifest file 'custom_interfaces_anscer.egg-info/SOURCES.txt'
+[4.523s] reading manifest file 'custom_interfaces_anscer.egg-info/SOURCES.txt'
+[4.524s] writing manifest file 'custom_interfaces_anscer.egg-info/SOURCES.txt'
+[4.604s] [  5%] Built target ament_cmake_python_build_custom_interfaces_anscer_egg
+[4.711s] [  5%] Built target custom_interfaces_anscer__cpp
+[4.748s] [  7%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[4.749s] [ 10%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[4.749s] [ 12%] [32mBuilding C object CMakeFiles/custom_interfaces_anscer__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces_anscer/srv/detail/csv_path__functions.c.o[0m
+[4.756s] [ 15%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[4.760s] [ 17%] [32mBuilding C object CMakeFiles/custom_interfaces_anscer__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces_anscer/srv/detail/time_in_sec__functions.c.o[0m
+[5.002s] [ 20%] [32m[1mLinking C shared library libcustom_interfaces_anscer__rosidl_generator_c.so[0m
+[5.133s] [ 20%] Built target custom_interfaces_anscer__rosidl_generator_c
+[5.184s] [ 23%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[5.193s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[5.198s] [ 28%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[6.107s] [ 30%] [32mBuilding CXX object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_interfaces_anscer/srv/time_in_sec__type_support.cpp.o[0m
+[6.115s] [ 33%] [32mBuilding CXX object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_interfaces_anscer/srv/csv_path__type_support.cpp.o[0m
+[6.196s] [ 35%] [32mBuilding CXX object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_interfaces_anscer/srv/detail/csv_path__type_support.cpp.o[0m
+[6.202s] [ 38%] [32mBuilding CXX object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_interfaces_anscer/srv/detail/time_in_sec__type_support.cpp.o[0m
+[6.491s] [ 41%] [32mBuilding CXX object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_interfaces_anscer/srv/detail/dds_fastrtps/csv_path__type_support.cpp.o[0m
+[6.685s] [ 43%] [32mBuilding CXX object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_c.dir/rosidl_typesupport_c/custom_interfaces_anscer/srv/csv_path__type_support.cpp.o[0m
+[6.857s] [ 46%] [32mBuilding CXX object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_c.dir/rosidl_typesupport_c/custom_interfaces_anscer/srv/time_in_sec__type_support.cpp.o[0m
+[7.039s] [ 48%] [32m[1mLinking CXX shared library libcustom_interfaces_anscer__rosidl_typesupport_c.so[0m
+[7.081s] [ 51%] [32mBuilding C object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/custom_interfaces_anscer/srv/detail/csv_path__type_support.c.o[0m
+[7.101s] [ 53%] [32mBuilding CXX object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/custom_interfaces_anscer/srv/detail/csv_path__type_support_c.cpp.o[0m
+[7.284s] [ 53%] Built target custom_interfaces_anscer__rosidl_typesupport_c
+[7.299s] [ 56%] [32mBuilding C object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/custom_interfaces_anscer/srv/detail/time_in_sec__type_support.c.o[0m
+[7.348s] [ 58%] [32mBuilding CXX object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/custom_interfaces_anscer/srv/detail/time_in_sec__type_support_c.cpp.o[0m
+[7.510s] [ 61%] [32m[1mLinking C shared library libcustom_interfaces_anscer__rosidl_typesupport_introspection_c.so[0m
+[7.699s] [ 64%] [32mBuilding CXX object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_interfaces_anscer/srv/detail/dds_fastrtps/time_in_sec__type_support.cpp.o[0m
+[7.705s] [ 64%] Built target custom_interfaces_anscer__rosidl_typesupport_introspection_c
+[7.721s] [ 66%] [32m[1mLinking CXX shared library libcustom_interfaces_anscer__rosidl_typesupport_cpp.so[0m
+[7.979s] [ 66%] Built target custom_interfaces_anscer__rosidl_typesupport_cpp
+[8.241s] [ 69%] [32m[1mLinking CXX shared library libcustom_interfaces_anscer__rosidl_typesupport_introspection_cpp.so[0m
+[8.451s] [ 69%] Built target custom_interfaces_anscer__rosidl_typesupport_introspection_cpp
+[8.683s] [ 71%] [32m[1mLinking CXX shared library libcustom_interfaces_anscer__rosidl_typesupport_fastrtps_c.so[0m
+[8.861s] [ 71%] Built target custom_interfaces_anscer__rosidl_typesupport_fastrtps_c
+[8.956s] [ 74%] [32m[1mLinking CXX shared library libcustom_interfaces_anscer__rosidl_typesupport_fastrtps_cpp.so[0m
+[9.075s] [ 74%] Built target custom_interfaces_anscer__rosidl_typesupport_fastrtps_cpp
+[9.122s] [ 74%] Built target custom_interfaces_anscer
+[9.170s] [ 76%] [34m[1mGenerating Python code for ROS interfaces[0m
+[9.944s] [ 76%] Built target custom_interfaces_anscer__py
+[9.994s] [ 79%] [32mBuilding C object CMakeFiles/custom_interfaces_anscer__rosidl_generator_py.dir/rosidl_generator_py/custom_interfaces_anscer/srv/_csv_path_s.c.o[0m
+[9.996s] [ 82%] [32mBuilding C object CMakeFiles/custom_interfaces_anscer__rosidl_generator_py.dir/rosidl_generator_py/custom_interfaces_anscer/srv/_time_in_sec_s.c.o[0m
+[10.280s] [ 84%] [32m[1mLinking C shared library rosidl_generator_py/custom_interfaces_anscer/libcustom_interfaces_anscer__rosidl_generator_py.so[0m
+[10.355s] [ 84%] Built target custom_interfaces_anscer__rosidl_generator_py
+[10.423s] [ 92%] [32mBuilding C object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/custom_interfaces_anscer/_custom_interfaces_anscer_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[10.424s] [ 92%] [32mBuilding C object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/custom_interfaces_anscer/_custom_interfaces_anscer_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[10.426s] [ 92%] [32mBuilding C object CMakeFiles/custom_interfaces_anscer__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/custom_interfaces_anscer/_custom_interfaces_anscer_s.ep.rosidl_typesupport_c.c.o[0m
+[10.669s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.669s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.672s] [100%] [32m[1mLinking C shared library rosidl_generator_py/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[10.797s] [100%] Built target custom_interfaces_anscer__rosidl_typesupport_fastrtps_c__pyext
+[10.798s] [100%] Built target custom_interfaces_anscer__rosidl_typesupport_c__pyext
+[10.815s] [100%] Built target custom_interfaces_anscer__rosidl_typesupport_introspection_c__pyext
+[10.845s] Invoked command in '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/asd/ros2_ws_goat2/install/multi_robo_simulator:/home/asd/ros2_ws_goat2/install/micro_ros_server:/home/asd/ros2_ws_goat2/install/Qr_action:/home/asd/ros2_ws9/install/turtlebot3_simulations:/home/asd/ros2_ws9/install/turtlebot3_gazebo_goat:/home/asd/ros2_ws9/install/turtlebot3_fake_node:/home/asd/ros2_ws9/install/testbed_gazebo_goat:/home/asd/ros2_ws9/install/testbed_description_goat:/home/asd/ros2_ws9/install/my_goat_pkg:/home/asd/ros2_ws9/install/goat_interfaces:/home/asd/ros2_ws9/install/goat_gazebo:/home/asd/ros2_ws7/install/my_py_pkg_anscer:/home/asd/ros2_ws4/install/esp_wifi:/home/asd/ros2_ws4/install/maping_odom:/home/asd/ros2_ws/install/turtlesim_catch_them_all:/home/asd/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer -- -j8 -l8
+[10.874s] Invoking command in '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/asd/ros2_ws_goat2/install/multi_robo_simulator:/home/asd/ros2_ws_goat2/install/micro_ros_server:/home/asd/ros2_ws_goat2/install/Qr_action:/home/asd/ros2_ws9/install/turtlebot3_simulations:/home/asd/ros2_ws9/install/turtlebot3_gazebo_goat:/home/asd/ros2_ws9/install/turtlebot3_fake_node:/home/asd/ros2_ws9/install/testbed_gazebo_goat:/home/asd/ros2_ws9/install/testbed_description_goat:/home/asd/ros2_ws9/install/my_goat_pkg:/home/asd/ros2_ws9/install/goat_interfaces:/home/asd/ros2_ws9/install/goat_gazebo:/home/asd/ros2_ws7/install/my_py_pkg_anscer:/home/asd/ros2_ws4/install/esp_wifi:/home/asd/ros2_ws4/install/maping_odom:/home/asd/ros2_ws/install/turtlesim_catch_them_all:/home/asd/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer
+[10.898s] -- Install configuration: ""
+[10.899s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/ament_index/resource_index/rosidl_interfaces/custom_interfaces_anscer
+[10.900s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer
+[10.900s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/msg
+[10.900s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/msg/rosidl_generator_c__visibility_control.h
+[10.901s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv
+[10.901s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/time_in_sec.h
+[10.902s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail
+[10.902s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__struct.h
+[10.902s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__functions.c
+[10.903s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__type_support.h
+[10.903s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__struct.h
+[10.903s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__functions.h
+[10.904s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__functions.c
+[10.904s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__functions.h
+[10.904s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__type_support.h
+[10.905s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/csv_path.h
+[10.905s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/environment/library_path.sh
+[10.905s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/environment/library_path.dsv
+[10.905s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_generator_c.so
+[10.906s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_generator_c.so" to ""
+[10.907s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer
+[10.907s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/msg
+[10.907s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[10.907s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv
+[10.908s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail
+[10.908s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__rosidl_typesupport_fastrtps_c.h
+[10.908s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__rosidl_typesupport_fastrtps_c.h
+[10.908s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_fastrtps_c.so
+[10.909s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_fastrtps_c.so" to ""
+[10.909s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer
+[10.909s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/msg
+[10.910s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[10.910s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv
+[10.910s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail
+[10.910s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__type_support.c
+[10.910s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__type_support.c
+[10.910s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__rosidl_typesupport_introspection_c.h
+[10.911s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__rosidl_typesupport_introspection_c.h
+[10.911s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_introspection_c.so
+[10.912s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_introspection_c.so" to ""
+[10.912s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_c.so
+[10.913s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_c.so" to ""
+[10.913s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer
+[10.913s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/msg
+[10.914s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/msg/rosidl_generator_cpp__visibility_control.hpp
+[10.916s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv
+[10.916s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/time_in_sec.hpp
+[10.916s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail
+[10.917s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__traits.hpp
+[10.917s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__builder.hpp
+[10.918s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__builder.hpp
+[10.918s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__struct.hpp
+[10.919s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__type_support.hpp
+[10.919s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__type_support.hpp
+[10.919s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__struct.hpp
+[10.920s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__traits.hpp
+[10.920s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/csv_path.hpp
+[10.921s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer
+[10.921s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/msg
+[10.921s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[10.922s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv
+[10.922s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail
+[10.922s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/dds_fastrtps
+[10.922s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__rosidl_typesupport_fastrtps_cpp.hpp
+[10.923s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__rosidl_typesupport_fastrtps_cpp.hpp
+[10.923s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_fastrtps_cpp.so
+[10.924s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_fastrtps_cpp.so" to ""
+[10.924s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer
+[10.925s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv
+[10.925s] -- Up-to-date: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail
+[10.925s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__rosidl_typesupport_introspection_cpp.hpp
+[10.925s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/time_in_sec__type_support.cpp
+[10.926s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__rosidl_typesupport_introspection_cpp.hpp
+[10.926s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/include/custom_interfaces_anscer/custom_interfaces_anscer/srv/detail/csv_path__type_support.cpp
+[10.926s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_introspection_cpp.so
+[10.927s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_introspection_cpp.so" to ""
+[10.927s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_cpp.so
+[10.928s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_typesupport_cpp.so" to ""
+[10.928s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/environment/pythonpath.sh
+[10.928s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/environment/pythonpath.dsv
+[10.929s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer-0.0.0-py3.10.egg-info
+[10.929s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer-0.0.0-py3.10.egg-info/top_level.txt
+[10.930s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer-0.0.0-py3.10.egg-info/PKG-INFO
+[10.930s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer-0.0.0-py3.10.egg-info/dependency_links.txt
+[10.931s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer-0.0.0-py3.10.egg-info/SOURCES.txt
+[10.931s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer
+[10.932s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[10.932s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/libcustom_interfaces_anscer__rosidl_generator_py.so
+[10.933s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/_custom_interfaces_anscer_s.ep.rosidl_typesupport_c.c
+[10.933s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/srv
+[10.933s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/srv/_csv_path.py
+[10.934s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/srv/_csv_path_s.c
+[10.934s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/srv/__init__.py
+[10.935s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/srv/_time_in_sec_s.c
+[10.936s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/srv/_time_in_sec.py
+[10.938s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[10.938s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[10.938s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/__init__.py
+[10.939s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/_custom_interfaces_anscer_s.ep.rosidl_typesupport_fastrtps_c.c
+[10.939s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/_custom_interfaces_anscer_s.ep.rosidl_typesupport_introspection_c.c
+[11.030s] Listing '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer'...
+[11.030s] Compiling '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/__init__.py'...
+[11.030s] Listing '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/srv'...
+[11.030s] Compiling '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/srv/__init__.py'...
+[11.030s] Compiling '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/srv/_csv_path.py'...
+[11.030s] Compiling '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/srv/_time_in_sec.py'...
+[11.038s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[11.039s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[11.040s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[11.041s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[11.041s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[11.042s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/local/lib/python3.10/dist-packages/custom_interfaces_anscer/custom_interfaces_anscer_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[11.043s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_generator_py.so
+[11.043s] -- Set runtime path of "/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/lib/libcustom_interfaces_anscer__rosidl_generator_py.so" to ""
+[11.044s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/srv/CsvPath.idl
+[11.044s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/srv/TimeInSec.idl
+[11.045s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/srv/CsvPath.srv
+[11.045s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/srv/CsvPath_Request.msg
+[11.046s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/srv/CsvPath_Response.msg
+[11.046s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/srv/TimeInSec.srv
+[11.047s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/srv/TimeInSec_Request.msg
+[11.047s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/srv/TimeInSec_Response.msg
+[11.047s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/ament_index/resource_index/package_run_dependencies/custom_interfaces_anscer
+[11.048s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/ament_index/resource_index/parent_prefix_path/custom_interfaces_anscer
+[11.048s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/environment/ament_prefix_path.sh
+[11.049s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/environment/ament_prefix_path.dsv
+[11.049s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/environment/path.sh
+[11.050s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/environment/path.dsv
+[11.050s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/local_setup.bash
+[11.050s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/local_setup.sh
+[11.051s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/local_setup.zsh
+[11.051s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/local_setup.dsv
+[11.052s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/package.dsv
+[11.052s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/ament_index/resource_index/packages/custom_interfaces_anscer
+[11.053s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/export_custom_interfaces_anscer__rosidl_generator_cExport.cmake
+[11.053s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/export_custom_interfaces_anscer__rosidl_generator_cExport-noconfig.cmake
+[11.053s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/export_custom_interfaces_anscer__rosidl_typesupport_fastrtps_cExport.cmake
+[11.054s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/export_custom_interfaces_anscer__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[11.054s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/custom_interfaces_anscer__rosidl_typesupport_introspection_cExport.cmake
+[11.055s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/custom_interfaces_anscer__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[11.055s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/custom_interfaces_anscer__rosidl_typesupport_cExport.cmake
+[11.056s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/custom_interfaces_anscer__rosidl_typesupport_cExport-noconfig.cmake
+[11.056s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/export_custom_interfaces_anscer__rosidl_generator_cppExport.cmake
+[11.056s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/export_custom_interfaces_anscer__rosidl_typesupport_fastrtps_cppExport.cmake
+[11.057s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/export_custom_interfaces_anscer__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[11.057s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/custom_interfaces_anscer__rosidl_typesupport_introspection_cppExport.cmake
+[11.059s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/custom_interfaces_anscer__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[11.059s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/custom_interfaces_anscer__rosidl_typesupport_cppExport.cmake
+[11.060s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/custom_interfaces_anscer__rosidl_typesupport_cppExport-noconfig.cmake
+[11.060s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/export_custom_interfaces_anscer__rosidl_generator_pyExport.cmake
+[11.060s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/export_custom_interfaces_anscer__rosidl_generator_pyExport-noconfig.cmake
+[11.061s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/rosidl_cmake-extras.cmake
+[11.061s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/ament_cmake_export_include_directories-extras.cmake
+[11.061s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/ament_cmake_export_libraries-extras.cmake
+[11.062s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/ament_cmake_export_targets-extras.cmake
+[11.062s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[11.063s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/ament_cmake_export_dependencies-extras.cmake
+[11.063s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[11.064s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/custom_interfaces_anscerConfig.cmake
+[11.064s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/cmake/custom_interfaces_anscerConfig-version.cmake
+[11.065s] -- Installing: /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/custom_interfaces_anscer/share/custom_interfaces_anscer/package.xml
+[11.069s] Invoked command in '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/asd/ros2_ws_goat2/install/multi_robo_simulator:/home/asd/ros2_ws_goat2/install/micro_ros_server:/home/asd/ros2_ws_goat2/install/Qr_action:/home/asd/ros2_ws9/install/turtlebot3_simulations:/home/asd/ros2_ws9/install/turtlebot3_gazebo_goat:/home/asd/ros2_ws9/install/turtlebot3_fake_node:/home/asd/ros2_ws9/install/testbed_gazebo_goat:/home/asd/ros2_ws9/install/testbed_description_goat:/home/asd/ros2_ws9/install/my_goat_pkg:/home/asd/ros2_ws9/install/goat_interfaces:/home/asd/ros2_ws9/install/goat_gazebo:/home/asd/ros2_ws7/install/my_py_pkg_anscer:/home/asd/ros2_ws4/install/esp_wifi:/home/asd/ros2_ws4/install/maping_odom:/home/asd/ros2_ws/install/turtlesim_catch_them_all:/home/asd/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/custom_interfaces_anscer

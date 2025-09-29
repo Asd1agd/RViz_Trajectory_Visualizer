@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/asd/ros2_ws4/install/maping_odom/lib/python3.10/site-packages",
+        "/home/asd/ros2_ws4/install/esp_wifi/lib/python3.10/site-packages",
+        "/home/asd/ros2_ws4/install/my_interfaces/local/lib/python3.10/dist-packages",
+        "/home/asd/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages",
+        "/home/asd/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/asd/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/asd/ros2_ws4/install/maping_odom/lib/python3.10/site-packages",
+        "/home/asd/ros2_ws4/install/esp_wifi/lib/python3.10/site-packages",
+        "/home/asd/ros2_ws4/install/my_interfaces/local/lib/python3.10/dist-packages",
+        "/home/asd/ros2_ws/install/turtlesim_catch_them_all/lib/python3.10/site-packages",
+        "/home/asd/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/asd/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

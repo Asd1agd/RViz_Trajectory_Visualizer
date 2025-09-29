@@ -1,0 +1,44 @@
+running egg_info
+creating ../../build/my_py_pkg_anscer/my_py_pkg_anscer.egg-info
+writing ../../build/my_py_pkg_anscer/my_py_pkg_anscer.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_py_pkg_anscer/my_py_pkg_anscer.egg-info/dependency_links.txt
+writing entry points to ../../build/my_py_pkg_anscer/my_py_pkg_anscer.egg-info/entry_points.txt
+writing requirements to ../../build/my_py_pkg_anscer/my_py_pkg_anscer.egg-info/requires.txt
+writing top-level names to ../../build/my_py_pkg_anscer/my_py_pkg_anscer.egg-info/top_level.txt
+writing manifest file '../../build/my_py_pkg_anscer/my_py_pkg_anscer.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_py_pkg_anscer/my_py_pkg_anscer.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_py_pkg_anscer/my_py_pkg_anscer.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build
+creating /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build/lib
+creating /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build/lib/my_py_pkg_anscer
+copying my_py_pkg_anscer/trajectory_publisher_saver.py -> /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build/lib/my_py_pkg_anscer
+copying my_py_pkg_anscer/trajectory_visualizer.py -> /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build/lib/my_py_pkg_anscer
+copying my_py_pkg_anscer/__init__.py -> /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build/lib/my_py_pkg_anscer
+copying my_py_pkg_anscer/path_drawer.py -> /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build/lib/my_py_pkg_anscer
+running install
+running install_lib
+creating /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/python3.10/site-packages/my_py_pkg_anscer
+copying /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build/lib/my_py_pkg_anscer/trajectory_publisher_saver.py -> /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/python3.10/site-packages/my_py_pkg_anscer
+copying /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build/lib/my_py_pkg_anscer/trajectory_visualizer.py -> /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/python3.10/site-packages/my_py_pkg_anscer
+copying /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build/lib/my_py_pkg_anscer/__init__.py -> /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/python3.10/site-packages/my_py_pkg_anscer
+copying /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/build/lib/my_py_pkg_anscer/path_drawer.py -> /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/python3.10/site-packages/my_py_pkg_anscer
+byte-compiling /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/python3.10/site-packages/my_py_pkg_anscer/trajectory_publisher_saver.py to trajectory_publisher_saver.cpython-310.pyc
+byte-compiling /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/python3.10/site-packages/my_py_pkg_anscer/trajectory_visualizer.py to trajectory_visualizer.cpython-310.pyc
+byte-compiling /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/python3.10/site-packages/my_py_pkg_anscer/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/python3.10/site-packages/my_py_pkg_anscer/path_drawer.py to path_drawer.cpython-310.pyc
+running install_data
+creating /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/share/ament_index
+creating /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/share/ament_index/resource_index
+creating /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/share/ament_index/resource_index/packages
+copying resource/my_py_pkg_anscer -> /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/share/ament_index/resource_index/packages
+copying package.xml -> /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/share/my_py_pkg_anscer
+creating /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/share/my_py_pkg_anscer/srv
+running install_egg_info
+Copying ../../build/my_py_pkg_anscer/my_py_pkg_anscer.egg-info to /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/python3.10/site-packages/my_py_pkg_anscer-0.0.0-py3.10.egg-info
+running install_scripts
+Installing path_drawer script to /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/my_py_pkg_anscer
+Installing trajectory_publisher_saver script to /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/my_py_pkg_anscer
+Installing trajectory_visualizer script to /home/asd/temp_git_repo/RViz_Trajectory_Visualizer/install/my_py_pkg_anscer/lib/my_py_pkg_anscer
+writing list of installed files to '/home/asd/temp_git_repo/RViz_Trajectory_Visualizer/build/my_py_pkg_anscer/install.log'

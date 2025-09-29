@@ -1,0 +1,4 @@
+int32 time_sec
+---
+bool success
+string message
